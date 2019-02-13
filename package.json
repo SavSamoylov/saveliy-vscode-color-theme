@@ -2,7 +2,7 @@
     "name": "saveliy",
     "displayName": "Saveliy",
     "description": "",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "saveliy",
     "engines": {
         "vscode": "^1.31.0"

@@ -4,8 +4,20 @@
 	"colors": {
 		"editor.background": "#11121f",
 		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#11121f",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"activityBar.background": "#21233d",
+		"activityBar.foreground": "#eeffff",
+		"activityBarBadge.background": "#61e4aa",
+		"activityBarBadge.foreground": "#0c0d16",
+		"sideBar.border": "#0a0b13",
+		"sideBarTitle.foreground": "#eeffff",
+		"sideBarSectionHeader.background": "#0c0d16",
+		"sideBarSectionHeader.foreground": "#eeffff",
+		"sideBar.background": "#11121f",
+		"sideBar.foreground": "#eeffff",
+		"list.hoverBackground": "#0c0d16",
+		"list.hoverForeground": "#eeffff",
+		"list.activeSelectionBackground": "#0c0d16",
+		"list.activeSelectionForeground": "#eeffff",
 	},
 	"tokenColors": [
 		{
