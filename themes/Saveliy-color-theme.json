@@ -18,6 +18,17 @@
 		"list.hoverForeground": "#eeffff",
 		"list.activeSelectionBackground": "#0c0d16",
 		"list.activeSelectionForeground": "#eeffff",
+		"statusBar.background": "#357a5b",
+		"statusBar.foreground": "#eeffff",
+		"statusBar.border": "#0a0b13",
+		"editorGroupHeader.tabsBackground": "#0c0d16",
+		"editorGroupHeader.noTabsBackground": "#0c0d16",
+		"editorGroupHeader.tabsBorder": "#0a0b13",
+		"tab.activeBackground": "#11121f",
+		"tab.activeForeground": "#eeffff",
+		"tab.activeBorderTop": "#357a5b",
+		"tab.inactiveBackground": "#0a0b13",
+		"tab.hoverBackground": "#11121f"
 	},
 	"tokenColors": [
 		{
