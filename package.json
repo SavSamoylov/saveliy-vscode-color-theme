@@ -2,8 +2,9 @@
     "name": "saveliy",
     "displayName": "Saveliy",
     "description": "",
-    "version": "0.0.4",
+    "version": "0.0.6",
     "publisher": "saveliy",
+    "icon": "images/saveliylogo.png",
     "engines": {
         "vscode": "^1.31.0"
     },
