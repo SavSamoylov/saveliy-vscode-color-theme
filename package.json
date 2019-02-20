@@ -1,8 +1,8 @@
 {
     "name": "saveliy",
-    "displayName": "Saveliy",
+    "displayName": "Saveliy UI",
     "description": "",
-    "version": "0.0.8",
+    "version": "0.0.9",
     "publisher": "saveliy",
     "icon": "images/saveliylogo.png",
     "engines": {
